@@ -1,6 +1,7 @@
-max-width: 960px;
+html {max-width: 960px;
 line-height: 1.4
 font-family: 'Atkinson Hyperlegible'
+}
 figure{
     padding: 5%;
 }
