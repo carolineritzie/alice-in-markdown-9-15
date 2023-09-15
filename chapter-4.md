@@ -123,12 +123,12 @@ help me out of _this!_” (Sounds of more broken glass.)</p>
 
 <p>“Sure, it’s an arm, yer honour!” (He pronounced it “arrum.”)</p>
 
-<p>“An arm, you goose! Who ever saw one that size? Why, it fills the whole
-window!”</p>
+“An arm, you goose! Who ever saw one that size? Why, it fills the whole
+window!”
 
-<p>“Sure, it does, yer honour: but it’s an arm for all that.”</p>
+“Sure, it does, yer honour: but it’s an arm for all that.”
 
-<p>“Well, it’s got no business there, at any rate: go and take it away!”</p>
+“Well, it’s got no business there, at any rate: go and take it away!”
 
 There was a long silence after this, and Alice could only hear whispers
 now and then; such as, “Sure, I don’t like it, yer honour, at all, at
