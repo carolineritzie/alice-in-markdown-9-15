@@ -2,6 +2,7 @@ html{max-width: 960px;
 line-height: 1.4
 }
 font-size: 16px;
+font-family: 'Atkinson Hyperlegible'
 figure{
     padding: 5%;
 }
@@ -9,7 +10,4 @@ figure{
 figcaption{
     font-size: 80%;
     font-family: sans-serif;
-}
-p {
-    font-family: 'Atkinson Hyperlegible'; 
 }
