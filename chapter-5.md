@@ -1,7 +1,7 @@
-CHAPTER V.
-Advice from a Caterpillar
-
-
+# CHAPTER V.
+## Advice from a Caterpillar
+![Large blue caterpillar sits on mushroom smoking a hookah](img/illustration-15.png)
+<section>
 The Caterpillar and Alice looked at each other for some time in
 silence: at last the Caterpillar took the hookah out of its mouth, and
 addressed her in a languid, sleepy voice.
@@ -80,6 +80,8 @@ came different!” Alice replied in a very melancholy voice.
 
 Alice folded her hands, and began:—
 
+![Young man stares at other man doing a handstand](img/illustration-16.png)
+
 “You are old, Father William,” the young man said,
     “And your hair has become very white;
 And yet you incessantly stand on your head—
@@ -89,6 +91,8 @@ And yet you incessantly stand on your head—
     “I feared it might injure the brain;
 But, now that I’m perfectly sure I have none,
     Why, I do it again and again.”
+
+![Young man stares at other man doing a somersault out the door](img/illustration-17.png)
 
 “You are old,” said the youth, “as I mentioned before,
     And have grown most uncommonly fat;
@@ -100,6 +104,8 @@ Yet you turned a back-somersault in at the door—
 By the use of this ointment—one shilling the box—
     Allow me to sell you a couple?”
 
+![Young man serves other man dinner](img/illustration-18.png)
+
 “You are old,” said the youth, “and your jaws are too weak
     For anything tougher than suet;
 Yet you finished the goose, with the bones and the beak—
@@ -109,6 +115,8 @@ Yet you finished the goose, with the bones and the beak—
     And argued each case with my wife;
 And the muscular strength, which it gave to my jaw,
     Has lasted the rest of my life.”
+
+![Young man stares at other man balancing an eel on his nose](img/illustration-19.png)
 
 “You are old,” said the youth, “one would hardly suppose
     That your eye was as steady as ever;
@@ -185,14 +193,14 @@ set to work at once to eat some of the other bit. Her chin was pressed
 so closely against her foot, that there was hardly room to open her
 mouth; but she did it at last, and managed to swallow a morsel of the
 lefthand bit.
-
+</section>
 *      *      *      *      *      *      *
 
     *      *      *      *      *      *
 
 *      *      *      *      *      *      *
 
-
+<section>
 “Come, my head’s free at last!” said Alice in a tone of delight, which
 changed into alarm in another moment, when she found that her shoulders
 were nowhere to be found: all she could see, when she looked down, was
@@ -293,3 +301,11 @@ upon an open place, with a little house in it about four feet high.
 _this_ size: why, I should frighten them out of their wits!” So she
 began nibbling at the righthand bit again, and did not venture to go
 near the house till she had brought herself down to nine inches high.
+</section>
+
+### List of Figures
+- [Large blue caterpillar sits on mushroom smoking a hookah](img/illustration-15.png)
+- [Young man stares at other man doing a handstand](img/illustration-16.png)
+- [Young man stares at other man doing a somersault out the door](img/illustration-17.png)
+- [Young man serves other man dinner](img/illustration-18.png)
+- [Young man stares at other man balancing an eel on his nose](img/illustration-19.png)
